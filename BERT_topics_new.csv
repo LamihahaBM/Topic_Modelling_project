@@ -1,0 +1,170 @@
+ref_num,title,year,topic,probability
+1,Structuring Online Dyads,2019,2,0.32520469460718254
+2,Escape!Bot: Social Robots as Creative Problem-Solving Partners,2022,5,1.0
+3,Can Children Learn Creativity from a Social Robot?,2019,5,1.0
+4,Can Children Emulate a Robotic Non-Player Character's Figural Creativity?,2020,5,0.4531929542502123
+5,Creativity Encounters Between Children and Robots,2020,5,1.0
+7,Homogenization Effects of Large Language Models on Human Creative Ideation,2024,-1,0.07678087320611166
+8,Crowdboard,2017,2,0.3132425617541853
+9,Spellburst: A Node-based Interface for Exploratory Creative Coding with Natural Language Prompts,2023,-1,0.11179964436818103
+10,ID.8: Co-Creating Visual Stories with Generative AI,2024,3,0.24820071773328256
+11,Introducing AV-Sketch: An Immersive Participatory Design Tool for Automated Vehicle — Passenger Interaction,2024,1,0.24636218022675768
+12,Creativity Support and Multimodal Pen-based Interaction,2019,1,0.10349443245748459
+13,Spinneret: Aiding Creative Ideation through Non-Obvious Concept Associations,2020,2,0.5799689311633938
+17,Blow Your Mind: Exploring the Effects of Scene-Switching and Visualization of Time Constraints on Brainstorming in Virtual Reality,2024,1,0.6081659220088086
+21,Stimulating Creative Partnerships in Human-Agent Musical Interaction,2016,1,1.0
+22,Paper2Wire,2020,1,0.09252961430876983
+23,DesignAID: Using Generative AI and Semantic Diversity for Design Inspiration,2023,0,0.39105398908676364
+24,INVISO,2017,1,0.22352951391139603
+25,Creativity Support in the Age of Large Language Models: An Empirical Study Involving Professional Writers,2024,4,1.0
+26,Improving Crowd Innovation with Expert Facilitation,2016,2,0.5732774818053992
+29,EditScribe: Non-Visual Image Editing with Natural Language Verification Loops,2024,-1,0.13732412327185853
+30,SearchIdea: An Idea Generation Tool to Support Creativity in Academic Search,2023,2,1.0
+31,AutoSpark: Supporting Automobile Appearance Design Ideation with Kansei Engineering and Generative AI,2024,0,1.0
+32,ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12,2024,7,1.0
+33,Beyond Numbers: Creating Analogies to Enhance Data Comprehension and Communication with Generative AI,2024,0,1.0
+35,IntuModels: Enabling Interactive Modeling for the Novice through Idea Generation and Selection,2021,0,0.3344546412717067
+36,CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI,2024,0,1.0
+37,Artinter: AI-powered Boundary Objects for Commissioning Visual Arts,2023,0,0.2014836879101289
+42,Exploring the Design-Space,2016,0,0.5254520753765083
+45,WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI,2023,0,0.19102103715127763
+46,Fashioning Creative Expertise with Generative AI: Graphical Interfaces for Design Space Exploration Better Support Ideation Than Text Prompts,2024,0,0.3792684058454529
+47,GRIDS: Interactive Layout Design with Integer Programming,2020,-1,0.13490937029311256
+48,Emotion and Creativity,2015,2,0.11205238025352537
+49,Creativity and Emotion,2017,2,0.14084984265400158
+50,(E)Motion and Creativity,2015,2,0.10761238553008065
+52,Once Upon a Story,2021,5,0.4116398240662265
+53,CreativeBot: a Creative Storyteller robot to stimulate creativity in children,2022,5,1.0
+54,Creativity in Authentic STEAM Education with EarSketch,2017,-1,0.06392031879102367
+55,Cine-AI: Generating Video Game Cutscenes in the Style of Human Directors,2022,-1,0.24877974349218812
+57,ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation,2024,-1,0.07064860963160875
+59,Towards a Reflection in Creative Experience Questionnaire,2023,1,0.4572898485735984
+60,Reflection Across AI-based Music Composition,2024,1,1.0
+63,How Digital Tools Impact Convergent and Divergent Thinking in Design Ideation,2021,0,1.0
+64,Painting an Apple with an Apple,2018,6,1.0
+65,Create-to-learn Paradigm: A Proxy Visual Storytelling Tool (PVST) for Stimulating Children's Story Sense and Structure,2024,7,1.0
+67,Sparks: Inspiration for Science Writing using Language Models,2022,4,1.0
+69,The Effect of Peripheral Micro-tasks on Crowd Ideation,2017,2,1.0
+70,CrowdMuse,2019,2,1.0
+71,Intelligent Support Engages Writers Through Relevant Cognitive Processes,2024,4,0.3468776067274018
+72,Understanding and Evaluating the User Interface Design for Creative Writing,2017,4,0.44939219099374056
+73,You're the Voice,2015,4,0.5237083866046901
+74,What Shall I Write Next?,2017,4,0.2934722475696913
+76,Creative and Progressive Interior Color Design with Eye-tracked User Preference,2022,6,1.0
+79,An Interactive System for Supporting Creative Exploration of Cinematic Composition Designs,2024,9,0.6551854611941544
+80,CoColor: Interactive Exploration of Color Designs,2023,6,1.0
+81,Supermind Ideator: How Scaffolding Human-AI Collaboration Can Increase Creativity,2024,-1,0.07197233482570581
+82,ThermalPen: Investigating the Influence of Thermal Haptic Feedback for Creativity in 3D Sketching,2024,-1,0.07117499363789534
+83,Portrayal: Leveraging NLP and Visualization for Analyzing Fictional Characters,2023,3,1.0
+84,Exploring the Role of Social Robot Behaviors in a Creative Activity,2021,5,1.0
+85,GenAssist: Making Image Generation Accessible,2023,0,0.19712600943253927
+86,IdeaBot: Investigating Social Facilitation in Human-Machine Team Creativity,2021,2,0.1501392396664904
+88,Mix &amp; Match Machine Learning: An Ideation Toolkit to Design Machine Learning-Enabled Solutions,2023,-1,0.08127851278758304
+90,FashionQ: An AI-Driven Creativity Support Tool for Facilitating Ideation in Fashion Design,2021,0,0.3090282971193356
+91,AutomataStage: an AR-mediated Creativity Support Tool for Hands-on Multidisciplinary Learning,2023,-1,0.18917211707526582
+92,AdapTics: A Toolkit for Creative Design and Integration of Real-Time Adaptive Mid-Air Ultrasound Tactons,2024,1,0.17951224893675607
+94,Multiplexed VR: Individualized Multiplexing Virtual Environment to Facilitate Switches for Group Ideation Creativity,2024,1,1.0
+95,MetaMap: Supporting Visual Metaphor Ideation through Multi-dimensional Example-based Exploration,2021,0,0.4612912552947077
+97,Appropriate Incongruity Driven Human-AI Collaborative Tool to Assist Novices in Humorous Content Generation,2024,4,0.3917114887629224
+98,f3.js,2017,0,1.0
+99,TextAlive,2015,9,0.6551854611941544
+100,Motif,2015,3,0.40094354371220736
+101,Metaphorian: Leveraging Large Language Models to Support Extended Metaphor Creation for Science Writing,2023,4,0.4275190997628961
+105,May AI?,2019,0,0.18383519928949865
+106,ImageSense: An Intelligent Collaborative Ideation Tool to Support Diverse Human-Computer Partnerships,2020,0,0.30036037607720495
+107,SemanticCollage,2020,0,0.4153628774115324
+110,Drawing with Reframer: Emergence and Control in Co-Creative AI,2023,8,0.3896340186601156
+114,It Is Your Turn: Collaborative Ideation With a Co-Creative Robot through Sketch,2020,8,1.0
+115,Sketchar: Supporting Character Design and Illustration Prototyping Using Generative AI,2024,3,0.1719454205776937
+116,Opal: Multimodal Image Generation for News Illustration,2022,0,0.4582367741683263
+117,3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows,2023,0,1.0
+118,Design Space Cards,2021,0,1.0
+119,StreamSketch,2021,3,0.13985215581643845
+121,"Physical, digital, and hybrid setups supporting card-based collaborative design ideation",2018,-1,0.3295477813904884
+123,Framing Creative Work: Helping Novices Frame Better Problems through Interactive Scaffolding,2021,-1,0.09202063047353277
+125,Evaluating the Use of Digital Creativity Support by Journalists in Newsrooms,2019,4,0.3185134072438935
+126,Evaluating Digital Creativity Support To Improve Health-and-Safety in a Manufacturing Plant,2017,-1,0.1042873962512598
+127,SHARP: Exploring Version Control Systems in Live Coding Music,2024,1,0.306646841072016
+128,Being Yourself to be Creative,2019,-1,0.05961678129983567
+129,Intelligent Agents and Networked Buttons Improve Free-Improvised Ensemble Music-Making on Touch-Screens,2016,1,0.5985585041840548
+132,LeMo,2019,1,0.49451894169258237
+133,Co-Writing Screenplays and Theatre Scripts with Language Models: Evaluation by Industry Professionals,2023,3,1.0
+134,Empowering Expression for Users with Aphasia through Constrained Creativity,2019,-1,0.07258665116625379
+135,CreaTable Content and Tangible Interaction in Aphasia,2020,-1,0.06295075610190272
+137,MIMOSA: Human-AI Co-Creation of Computational Spatial Audio Effects on Videos,2024,1,0.17966739767536594
+138,Augmented Games,2017,7,1.0
+139,"I Lead, You Help but Only with Enough Details",2018,8,1.0
+140,LumiMood: A Creativity Support Tool for Designing the Mood of a 3D Scene,2024,-1,0.13202199301944476
+141,CrowdUI: Supporting Web Design with the Crowd,2020,-1,0.07012291357244563
+145,Exergy,2023,0,0.16567414589897309
+146,DesignPrompt: Using Multimodal Interaction for Design Exploration with Generative AI,2024,0,0.5675986259026152
+147,AngleKindling: Supporting Journalistic Angle Ideation with Large Language Models,2023,4,0.3194966100901963
+148,Co-3Deator,2017,0,0.25065352212210595
+150,Machines as Teammates in Creative Teams,2019,2,0.2616326385787178
+151,Cogcues: Shifting Perception through Interactive Projected Cues in Still Life Drawing,2023,6,0.20588366610586467
+152,CharacterMeet: Supporting Creative Writers' Entire Story Character Construction Processes Through Conversation with LLM-Powered Chatbot Avatars,2024,3,1.0
+155,ABScribe: Rapid Exploration &amp; Organization of Multiple Writing Variations in Human-AI Co-Writing Tasks using Large Language Models,2024,4,1.0
+156,"Understanding User Perceptions, Collaborative Experience and User Engagement in Different Human-AI Interaction Designs for Co-Creative Systems",2022,8,1.0
+158,"XR Composition in the Wild: The Impact of User Environments on Creativity, UX and Flow during Music Production in Augmented Reality",2024,1,0.5634964578898111
+159,Flow with the Beat! Human-Centered Design of Virtual Environments for Musical Creativity Support in VR,2022,1,1.0
+160,CharacterChat: Supporting the Creation of Fictional Characters through Conversation and Progressive Manifestation with a Chatbot,2021,-1,0.1405710551308348
+162,HandiMate,2015,-1,0.1156124867029946
+163,Neural Canvas: Supporting Scenic Design Prototyping by Integrating 3D Sketching and Generative AI,2024,0,0.14884800335989284
+164,EmoG: Supporting the Sketching of Emotional Expressions for Storyboarding,2020,3,0.18103530361146858
+165,Design Adjectives,2020,0,0.27044684292778476
+166,Playful palette,2017,6,1.0
+167,Color Builder,2019,6,1.0
+168,Toward Collaborative Ideation at Scale,2015,2,0.6210205714440857
+169,IdeaHound,2016,2,0.4204088673878216
+170,Providing Timely Examples Improves the Quantity and Quality of Generated Ideas,2015,2,1.0
+171,Where to Hide a Stolen Elephant: Leaps in Creative Writing with Multimodal Machine Intelligence,2022,4,0.3779535720502738
+172,GenQuery: Supporting Expressive Visual Search with Generative Models,2024,0,0.4728977962723143
+174,Improving Selection of Analogical Inspirations through Chunking and Recombination,2024,0,0.3165952687402766
+175,pARam: Leveraging Parametric Design in Extended Reality to Support the Personalization of Artifacts for Personal Fabrication,2024,0,1.0
+176,Luminate: Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation,2024,-1,0.08898905932990572
+177,PrivacyToon: Concept-driven Storytelling with Creativity Support for Privacy Concepts,2022,3,0.24996769952213185
+178,Leveraging Text-Chart Links to Support Authoring of Data-Driven Articles with VizFlow,2021,3,0.43761895478177837
+179,Accessible Creativity with a Comic Spin,2020,-1,0.07032368501796206
+180,Comic Spin: A Comic Creation Tool Enabling Self-expression for People with Aphasia,2022,-1,0.07941808377627033
+182,ProxyPrint,2016,0,1.0
+183,Effects of PCG on Creativity in Playful City-Building Environments in VR,2022,1,0.1635742839242934
+184,The Effects of Generative AI on Design Fixation and Divergent Thinking,2024,0,0.267622690111325
+185,SelVReflect: A Guided VR Experience Fostering Reflection on Personal Challenges,2023,1,1.0
+186,Sketchy: Drawing Inspiration from the Crowd,2020,-1,0.11713511171328689
+187,"Metamorpheus: Interactive, Affective, and Creative Dream Narration Through Metaphorical Visual Storytelling",2024,-1,0.1144583663120674
+188,GANCollage: A GAN-Driven Digital Mood Board to Facilitate Ideation in Creativity Support,2023,0,1.0
+189,ReelFramer: Human-AI Co-Creation for News-to-Video Translation,2024,3,1.0
+190,PodReels: Human-AI Co-Creation of Video Podcast Teasers,2024,3,0.3396952372313744
+191,PopBlends: Strategies for Conceptual Blending with Large Language Models,2023,0,0.35271834081941866
+192,Plain2Fun,2018,0,1.0
+193,PointShopAR: Supporting Environmental Design Prototyping Using Point Cloud in Augmented Reality,2023,0,0.30857589131651775
+194,Interactive Flexible Style Transfer for Vector Graphics,2023,0,0.2635975502687024
+197,wr-AI-ter: Enhancing Ownership Perception in AI-Driven Script Writing,2024,3,1.0
+199,CurveCrafter: A System for Animated Curve Manipulation,2023,-1,0.10640905763235167
+200,Secondary Motion for Performed 2D Animation,2017,9,0.6551854611941544
+201,Doodlebot: An Educational Robot for Creativity and AI Literacy,2024,5,0.26612371614933683
+202,DrawMyPhoto,2019,-1,0.1428707730344612
+203,”Paint that object yellow”: Multimodal Interaction to Enhance Creativity During Design Tasks in VR,2019,1,0.12517174950411966
+204,StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI,2024,0,0.2627184189713485
+205,StyleMe: Towards Intelligent Fashion Generation with Designer Style,2023,0,0.22318168180319942
+206,Thinking Like a Director,2018,-1,0.2034497429785214
+207,Supporting Non-Musicians? Creative Engagement with Musical Interfaces,2017,1,0.7108458749481397
+208,TypeDance: Creating Semantic Typographic Logos from Image through Personalized Generation,2024,0,1.0
+210,Magical Brush: A Symbol-Based Modern Chinese Painting System for Novices,2023,6,0.21940248358287004
+212,IdeateRelate: An Examples Gallery That Helps Creators Explore Ideas in Relation to Their Own,2021,2,0.193019729931795
+213,Jamplate: Exploring LLM-Enhanced Templates for Idea Reflection,2024,-1,0.06382738994874505
+215,NaCanva: Exploring and Enabling the Nature-Inspired Creativity for Children,2023,7,0.39537641318988104
+216,XCreation: A Graph-based Crossmodal Generative Creativity Support Tool,2023,-1,0.17039345142197204
+217,Lumina: A Software Tool for Fostering Creativity in Designing Chinese Shadow Puppets,2024,9,0.6551854611941544
+219,When to Give Feedback: Exploring Tradeoffs in the Timing of Design Feedback,2024,8,0.2374206067849595
+220,Investigating the Effects of Self-Avatars and Story-Relevant Avatars on Children's Creative Storytelling,2020,7,0.6117194010440771
+221,Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling,2024,-1,0.12916331144720475
+222,StoryDrawer,2022,7,1.0
+223,A Hybrid Prototype Method Combining Physical Models and Generative Artificial Intelligence to Support Creativity in Conceptual Design,2024,0,0.1671312801144877
+224,ProtoDreamer: A Mixed-prototype Tool Combining Physical Model and Generative AI to Support Conceptual Design,2024,0,0.23120950339100477
+225,Exploring Optimal Combinations: The Impact of Sequential Multimodal Inspirational Stimuli in Design Concepts on Creativity,2024,0,0.33763001076661614
+226,VISAR: A Human-AI Argumentative Writing Assistant with Visual Programming and Rapid Draft Prototyping,2023,4,1.0
+228,AI-Assisted Causal Pathway Diagram for Human-Centered Design,2024,0,0.20637109222605102
+229,Understanding Nonlinear Collaboration between Human and AI Agents: A Co-design Framework for Creative Design,2024,8,1.0
+231,Augmenting Static Visualizations with PapARVis Designer,2020,1,0.13506370297530973
+232,Finally on Par?! Multimodal and Unimodal Interaction for Open Creative Design Tasks in Virtual Reality,2020,1,0.20010989125682416
